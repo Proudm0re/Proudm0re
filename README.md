@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Proudm0re (Ethan).
 - 👀 I’m interested in gaming and just starting my coding!
-- 🌱 I’m currently learning C++, Java and Python, using theodinproject as a guide.
+- 🌱 I’m currently learning Python, looking to become a back-end developer.
 - 📫 How to reach me via my email: ethan.lawrence@live.co.uk
 
 <!---
